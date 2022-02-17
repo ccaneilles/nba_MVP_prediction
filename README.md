@@ -44,7 +44,7 @@ Thus to determine our MVP, we built a two-step solution:
 - To separate the candidates (via a regression on the current results of the votes: MVP_share)
 
 ### Model architecture
-![alt text](https://github.com/ccaneilles/nba_mvp_prediction/blob/main/images/strategy.png)
+![alt text](https://github.com/ccaneilles/nba_mvp_prediction/blob/main/images/strategy.jpg)
 
 ## RESULTS
 
