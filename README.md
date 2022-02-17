@@ -59,7 +59,7 @@ Note : For all the models the selections of the hyperparameters has been made by
 **Results for the season 2021-2022 (prediction with stats before  January):**
 ![alt text](https://github.com/ccaneilles/nba_mvp_prediction/blob/main/images/results.png)
 
-$R^2$ is the score of each regression calculated on the test sample. The poor results can be explained by the fact that voters have to choose the top 3 players and rank them, while our model does not have the ability to do this since it takes each candidate independently of the others. Our models do not decide while the voters do.
+R^2 is the score of each regression calculated on the test sample. The poor results can be explained by the fact that voters have to choose the top 3 players and rank them, while our model does not have the ability to do this since it takes each candidate independently of the others. Our models do not decide while the voters do.
 
 Looking at the results from our fan eyes, the outcome seems consistent both for podium and the winners.
 
