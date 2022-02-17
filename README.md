@@ -1,4 +1,4 @@
-# nba_mvp_prediction
+# Predicting NBA 2021-22 Most Valuable Player
 In this project, the objective is to build a NBA MVP prediction model and forecast the upcoming MVP for the current (2022) season.
 
 ## DATA
